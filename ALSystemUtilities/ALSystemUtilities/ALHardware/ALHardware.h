@@ -65,7 +65,7 @@
  Get the boot time in hours, minutes and seconds
  @return NSString represents the boot time in hours, minutes and seconds
  */
-+ (NSDate *)bootTime;
++ (NSString *)bootTime;
 
 /*!
  Check for the proximity sensor
